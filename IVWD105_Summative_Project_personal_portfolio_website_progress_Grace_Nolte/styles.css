@@ -1,0 +1,15 @@
+body {
+  color: black;
+  background-color: #daf0ff;
+  font-family: Helvetica;
+  padding: 5px;
+}
+nav {
+  font-family: Tahoma;
+}
+img {
+  padding: 5px;
+}
+footer {
+  background-color: #ffedf6;
+}
